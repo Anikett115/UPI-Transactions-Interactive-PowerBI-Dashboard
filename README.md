@@ -76,9 +76,3 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ### City-wise Monthly Transactions (Matrix View)
 ![City-wise Monthly Transactions](Screenshots/city-wise-monthly-transactions-table.png)
-
----
-
-## Notes
-Due to GitHub file size limitations, the `.pbix` file is not included in this repository.
-The complete interactive report can be accessed using the Power BI Service link above.
