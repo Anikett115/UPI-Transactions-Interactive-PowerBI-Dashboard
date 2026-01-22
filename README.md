@@ -64,9 +64,10 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ## Live Report (Power BI Service)
 
-Explore the fully interactive UPI Transactions Power BI dashboard:
+🌐 Public interactive Power BI dashboard :
 
-https://app.powerbi.com/reportEmbed?reportId=d1e086df-419b-4c49-b1dd-3a548b20a0de&autoAuth=true&ctid=20014770-37aa-445d-813d-5e68f127182c
+https://app.powerbi.com/view?r=eyJrIjoiYmJkODhiMmItZDg4Zi00MjA0LTkxNjctYzNkMGViMjJjZTdlIiwidCI6IjIwMDE0NzcwLTM3YWEtNDQ1ZC04MTNkLTVlNjhmMTI3MTgyYyJ9
+
 
 ---
 
