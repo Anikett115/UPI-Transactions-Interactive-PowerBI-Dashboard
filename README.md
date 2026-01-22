@@ -64,7 +64,7 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ## Live Report (Power BI Service)
 
-🌐 Public interactive Power BI dashboard :
+Public interactive Power BI dashboard :
 
 https://app.powerbi.com/view?r=eyJrIjoiYmJkODhiMmItZDg4Zi00MjA0LTkxNjctYzNkMGViMjJjZTdlIiwidCI6IjIwMDE0NzcwLTM3YWEtNDQ1ZC04MTNkLTVlNjhmMTI3MTgyYyJ9
 
