@@ -15,6 +15,21 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ---
 
+## Data Modeling & DAX
+
+- Created calculated measures for:
+  - Total Transaction Amount
+  - Monthly Remaining Balance
+- Used DAX to enable dynamic filtering across:
+  - Time (Month, Year)
+  - City, Bank, and Transaction Type
+- Implemented bookmark-based visual switching to toggle between:
+  - Line and Column charts
+  - Transaction Amount and Remaining Balance
+- Ensured reusability of measures without duplication
+
+---
+
 ## Key Features
 - **Interactive Visual Switching**
   - Toggle between line and column charts using bookmarks
@@ -52,6 +67,15 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ---
 
+## How to Use This Project
+
+1. Download the `.pbix` file from this repository  
+2. Open it using **Power BI Desktop**  
+3. Use slicers and navigation buttons to explore insights  
+4. For full interactivity, ensure bookmarks and slicers are enabled  
+
+---
+
 ## Dashboard Screenshots
 
 ### Transaction Amount by Month (Line Chart)
@@ -79,10 +103,27 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ---
 
+## Limitations & Assumptions
+
+- Dataset is static and sourced from an Excel file
+- No real-time or incremental refresh is enabled
+- Data is used purely for educational and portfolio purposes
+
+---
+
+## Key Insights & Observations
+
+- Transaction volumes peak during **May and October**, indicating seasonal usage spikes.
+- Remaining balance remains relatively stable across months, suggesting consistent inflow–outflow behavior.
+- Metro cities like **Mumbai and Delhi** contribute the highest transaction amounts.
+- Younger age groups dominate UPI usage, especially for merchant payments.
+- Mobile devices account for the majority of transactions, highlighting mobile-first adoption.
+  
+---
+
 ## Notes
 
 - This project demonstrates practical Power BI skills including data modeling,
   DAX calculations, bookmarks, and synchronized slicers.
 - The dataset is used for educational and portfolio purposes.
 - For full interactivity, open the `.pbix` file in Power BI Desktop.
-
