@@ -76,3 +76,13 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ### City-wise Monthly Transactions (Matrix View)
 ![City-wise Monthly Transactions](Screenshots/city-wise-monthly-transactions-table.png)
+
+---
+
+## Notes
+
+- This project demonstrates practical Power BI skills including data modeling,
+  DAX calculations, bookmarks, and synchronized slicers.
+- The dataset is used for educational and portfolio purposes.
+- For full interactivity, open the `.pbix` file in Power BI Desktop.
+
