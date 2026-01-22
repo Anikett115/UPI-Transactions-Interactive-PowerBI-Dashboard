@@ -122,7 +122,8 @@ https://app.powerbi.com/view?r=eyJrIjoiYmJkODhiMmItZDg4Zi00MjA0LTkxNjctYzNkMGViM
 - Metro cities like **Mumbai and Delhi** contribute the highest transaction amounts.
 - Younger age groups dominate UPI usage, especially for merchant payments.
 - Mobile devices account for the majority of transactions, highlighting mobile-first adoption.
-  
+- Dynamic slicers and synchronized filters allow users to analyze transaction behavior consistently across pages without losing context.
+
 ---
 
 ## Notes
